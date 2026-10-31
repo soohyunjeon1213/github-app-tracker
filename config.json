@@ -1,0 +1,9 @@
+{
+  "topics": [
+    {"name":"macos","enabled":true}, {"name":"macos-app","enabled":true},
+    {"name":"macos-apps","enabled":true}, {"name":"menubar","enabled":true},
+    {"name":"menu-bar","enabled":true}, {"name":"macos-utility","enabled":true},
+    {"name":"macos-tools","enabled":true}, {"name":"swiftui","enabled":true}
+  ],
+  "scan": {"pages_per_topic": 3, "max_search_requests": 80}
+}
